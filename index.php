@@ -12,12 +12,18 @@
 <body>
 	<div class="rightext">
 		
-		<div class="rt-img">
-				<img src="images/first-slide-0.jpg">
+			<div class="rt-img">
+				<img class="active" src="images/first-slide-0.jpg">
+			</div>
+			<div class="rt-img">
 				<img src="images/first-slide-1.jpg">
+			</div>
+			<div class="rt-img">
 				<img src="images/first-slide-2.jpg">
+			</div>
+			<div class="rt-img">
 				<img src="images/first-slide-3.jpg">
-		</div>
+			</div>
     			
 		<!-- <ul class="rt-li">
 			<li class="active"></li>

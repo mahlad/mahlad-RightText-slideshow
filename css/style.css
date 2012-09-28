@@ -30,6 +30,7 @@ div.rightext div.rt-img{
 	left: 15px;
 	width:404px;
 	height:256px;
+
 }
 div.rt-img img{
 	position: absolute;
@@ -37,9 +38,18 @@ div.rt-img img{
 	height:256px;
 	top: 0;
 	left: 0;
-	opacity: 0;
-	
+	opacity: 1;	
 }
+/*img.active {
+    z-index:10;
+    
+}
+img.last-active {
+    z-index:9;
+}*/
+/*div.rt-img img.last{
+	z-index: 9;
+}*/
 /*article.first ul.navFirst{
 	position:absolute;
 	list-style-type:none;
